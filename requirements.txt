@@ -1,8 +1,6 @@
 certifi==2019.9.11
 chardet==3.0.4
 Click==7.0
-crypto==1.4.1
-Django==2.2.6
 Flask==1.1.1
 Flask-Cors==3.0.8
 idna==2.8
@@ -10,6 +8,7 @@ itsdangerous==1.1.0
 Jinja2==2.10.3
 MarkupSafe==1.1.1
 Naked==0.1.31
+pycryptodome==3.9.3
 pytz==2019.3
 PyYAML==5.1.2
 requests==2.22.0
@@ -19,4 +18,3 @@ sqlparse==0.3.0
 urllib3==1.25.7
 virtualenv==16.7.7
 Werkzeug==0.16.0
-pycrypto==2.6.1
